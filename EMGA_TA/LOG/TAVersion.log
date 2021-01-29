@@ -1,0 +1,24 @@
+INFO:root:
+ experiment in 2021-01-29 08:51:50
+INFO:root:
+ experiment in 2021-01-29 08:53:39
+INFO:root:
+ experiment in 2021-01-29 08:55:20
+INFO:root:
+ experiment in 2021-01-29 08:57:36
+INFO:root:Epoch Avg. Loss : 0.017702
+INFO:root:===> in 1th epochs
+INFO:root:frames avg. psnr 28.4751 dB with var0.41
+INFO:root:===> save the best Model: reach 28.48dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017650
+INFO:root:===> in 2th epochs
+INFO:root:frames avg. psnr 28.4760 dB with var0.41
+INFO:root:===> save the best Model: reach 28.48dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017608
+INFO:root:===> in 3th epochs
+INFO:root:frames avg. psnr 28.5715 dB with var0.41
+INFO:root:===> save the best Model: reach 28.57dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017522
+INFO:root:===> in 4th epochs
+INFO:root:frames avg. psnr 28.6739 dB with var0.42
+INFO:root:===> save the best Model: reach 28.67dB PSNR

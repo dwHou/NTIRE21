@@ -1,0 +1,315 @@
+INFO:root:lq frames 27.2132 dB with var0.12
+INFO:root:
+ experiment in 2021-01-27 02:53:53
+INFO:root:
+ experiment in 2021-01-27 02:55:48
+INFO:root:
+ experiment in 2021-01-27 03:37:01
+INFO:root:
+ experiment in 2021-01-27 03:39:37
+INFO:root:
+ experiment in 2021-01-27 03:40:57
+INFO:root:Epoch Avg. LQ Loss : 0.017396
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1325 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:
+ experiment in 2021-01-27 04:08:22
+INFO:root:Epoch Avg. LQ Loss : 0.017411
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1233 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.12dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017220
+INFO:root:===> in 2th epochs
+INFO:root:lq frames 29.1246 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.12dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017167
+INFO:root:===> in 3th epochs
+INFO:root:lq frames 29.1223 dB with var0.25
+INFO:root:Epoch Avg. LQ Loss : 0.017157
+INFO:root:===> in 4th epochs
+INFO:root:lq frames 29.1585 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.16dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017071
+INFO:root:===> in 5th epochs
+INFO:root:lq frames 29.1842 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.18dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017093
+INFO:root:===> in 6th epochs
+INFO:root:lq frames 29.2025 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.20dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017022
+INFO:root:===> in 7th epochs
+INFO:root:lq frames 29.2410 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.24dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017055
+INFO:root:===> in 8th epochs
+INFO:root:lq frames 29.2912 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.29dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016984
+INFO:root:===> in 9th epochs
+INFO:root:lq frames 29.3280 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.33dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016865
+INFO:root:===> in 10th epochs
+INFO:root:lq frames 29.3338 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.33dB PSNR
+INFO:root:
+ experiment in 2021-01-27 08:09:41
+INFO:root:
+ experiment in 2021-01-27 08:15:45
+INFO:root:
+ experiment in 2021-01-27 08:24:42
+INFO:root:
+ experiment in 2021-01-27 08:33:28
+INFO:root:
+ experiment in 2021-01-27 08:35:19
+INFO:root:Epoch Avg. LQ Loss : 0.017398
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1320 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017164
+INFO:root:===> in 2th epochs
+INFO:root:lq frames 29.1226 dB with var0.25
+INFO:root:Epoch Avg. LQ Loss : 0.017137
+INFO:root:===> in 3th epochs
+INFO:root:lq frames 29.1329 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017078
+INFO:root:===> in 4th epochs
+INFO:root:lq frames 29.1323 dB with var0.24
+INFO:root:Epoch Avg. LQ Loss : 0.017055
+INFO:root:===> in 5th epochs
+INFO:root:lq frames 29.1389 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.14dB PSNR
+INFO:root:
+ experiment in 2021-01-27 10:14:35
+INFO:root:Epoch Avg. LQ Loss : 0.017397
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1307 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017162
+INFO:root:===> in 2th epochs
+INFO:root:lq frames 29.1318 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017142
+INFO:root:===> in 3th epochs
+INFO:root:lq frames 29.1293 dB with var0.24
+INFO:root:
+ experiment in 2021-01-27 11:21:38
+INFO:root:Epoch Avg. LQ Loss : 0.017286
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1237 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.12dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017193
+INFO:root:===> in 2th epochs
+INFO:root:lq frames 29.1328 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:
+ experiment in 2021-01-27 16:19:35
+INFO:root:
+ experiment in 2021-01-27 16:26:48
+INFO:root:Epoch Avg. LQ Loss : 0.017300
+INFO:root:===> in 1th epochs
+INFO:root:lq frames 29.1262 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017138
+INFO:root:===> in 2th epochs
+INFO:root:lq frames 29.1313 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017128
+INFO:root:===> in 3th epochs
+INFO:root:lq frames 29.1335 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017153
+INFO:root:===> in 4th epochs
+INFO:root:lq frames 29.1326 dB with var0.24
+INFO:root:Epoch Avg. LQ Loss : 0.017167
+INFO:root:===> in 5th epochs
+INFO:root:lq frames 29.1337 dB with var0.24
+INFO:root:===> save the best LQ: reach 29.13dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017108
+INFO:root:===> in 6th epochs
+INFO:root:lq frames 29.1160 dB with var0.25
+INFO:root:Epoch Avg. LQ Loss : 0.017051
+INFO:root:===> in 7th epochs
+INFO:root:lq frames 29.1655 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.17dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017027
+INFO:root:===> in 8th epochs
+INFO:root:lq frames 29.1744 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.17dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017053
+INFO:root:===> in 9th epochs
+INFO:root:lq frames 29.1972 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.20dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016992
+INFO:root:===> in 10th epochs
+INFO:root:lq frames 29.2272 dB with var0.25
+INFO:root:===> save the best LQ: reach 29.23dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.017053
+INFO:root:===> in 11th epochs
+INFO:root:lq frames 29.2395 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.24dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016985
+INFO:root:===> in 12th epochs
+INFO:root:lq frames 29.2458 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.25dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016970
+INFO:root:===> in 13th epochs
+INFO:root:lq frames 29.3111 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.31dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016965
+INFO:root:===> in 14th epochs
+INFO:root:lq frames 29.3303 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.33dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016877
+INFO:root:===> in 15th epochs
+INFO:root:lq frames 29.3583 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.36dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016853
+INFO:root:===> in 16th epochs
+INFO:root:lq frames 29.3642 dB with var0.30
+INFO:root:===> save the best LQ: reach 29.36dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016869
+INFO:root:===> in 17th epochs
+INFO:root:lq frames 29.3993 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.40dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016856
+INFO:root:===> in 18th epochs
+INFO:root:lq frames 29.4138 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.41dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016836
+INFO:root:===> in 19th epochs
+INFO:root:lq frames 29.4255 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.43dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016738
+INFO:root:===> in 20th epochs
+INFO:root:lq frames 29.4309 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.43dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016777
+INFO:root:===> in 21th epochs
+INFO:root:lq frames 29.4370 dB with var0.30
+INFO:root:===> save the best LQ: reach 29.44dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016728
+INFO:root:===> in 22th epochs
+INFO:root:lq frames 29.4508 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.45dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016767
+INFO:root:===> in 23th epochs
+INFO:root:lq frames 29.4555 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.46dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016720
+INFO:root:===> in 24th epochs
+INFO:root:lq frames 29.4636 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.46dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016706
+INFO:root:===> in 25th epochs
+INFO:root:lq frames 29.4765 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.48dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016746
+INFO:root:===> in 26th epochs
+INFO:root:lq frames 29.4799 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.48dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016722
+INFO:root:===> in 27th epochs
+INFO:root:lq frames 29.4770 dB with var0.30
+INFO:root:Epoch Avg. LQ Loss : 0.016699
+INFO:root:===> in 28th epochs
+INFO:root:lq frames 29.4881 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.49dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016683
+INFO:root:===> in 29th epochs
+INFO:root:lq frames 29.4831 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016694
+INFO:root:===> in 30th epochs
+INFO:root:lq frames 29.5006 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.50dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016665
+INFO:root:===> in 31th epochs
+INFO:root:lq frames 29.4936 dB with var0.29
+INFO:root:Epoch Avg. LQ Loss : 0.016639
+INFO:root:===> in 32th epochs
+INFO:root:lq frames 29.4917 dB with var0.28
+INFO:root:Epoch Avg. LQ Loss : 0.016667
+INFO:root:===> in 33th epochs
+INFO:root:lq frames 29.4900 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016611
+INFO:root:===> in 34th epochs
+INFO:root:lq frames 29.5078 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.51dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016578
+INFO:root:===> in 35th epochs
+INFO:root:lq frames 29.5024 dB with var0.28
+INFO:root:Epoch Avg. LQ Loss : 0.016600
+INFO:root:===> in 36th epochs
+INFO:root:lq frames 29.5150 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.51dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016622
+INFO:root:===> in 37th epochs
+INFO:root:lq frames 29.5207 dB with var0.29
+INFO:root:===> save the best LQ: reach 29.52dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016615
+INFO:root:===> in 38th epochs
+INFO:root:lq frames 29.5340 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.53dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016528
+INFO:root:===> in 39th epochs
+INFO:root:lq frames 29.5402 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.54dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016646
+INFO:root:===> in 40th epochs
+INFO:root:lq frames 29.5366 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016588
+INFO:root:===> in 41th epochs
+INFO:root:lq frames 29.5331 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016585
+INFO:root:===> in 42th epochs
+INFO:root:lq frames 29.5459 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.55dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016520
+INFO:root:===> in 43th epochs
+INFO:root:lq frames 29.5518 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.55dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016515
+INFO:root:===> in 44th epochs
+INFO:root:lq frames 29.5493 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016534
+INFO:root:===> in 45th epochs
+INFO:root:lq frames 29.5694 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.57dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016502
+INFO:root:===> in 46th epochs
+INFO:root:lq frames 29.5781 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.58dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016523
+INFO:root:===> in 47th epochs
+INFO:root:lq frames 29.5739 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016470
+INFO:root:===> in 48th epochs
+INFO:root:lq frames 29.5806 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.58dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016512
+INFO:root:===> in 49th epochs
+INFO:root:lq frames 29.5828 dB with var0.28
+INFO:root:===> save the best LQ: reach 29.58dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016438
+INFO:root:===> in 50th epochs
+INFO:root:lq frames 29.5928 dB with var0.27
+INFO:root:===> save the best LQ: reach 29.59dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016444
+INFO:root:===> in 51th epochs
+INFO:root:lq frames 29.6065 dB with var0.26
+INFO:root:===> save the best LQ: reach 29.61dB PSNR
+INFO:root:Epoch Avg. LQ Loss : 0.016394
+INFO:root:===> in 52th epochs
+INFO:root:lq frames 29.6049 dB with var0.26
+INFO:root:Epoch Avg. LQ Loss : 0.016428
+INFO:root:===> in 53th epochs
+INFO:root:lq frames 29.6024 dB with var0.27
+INFO:root:Epoch Avg. LQ Loss : 0.016432
+INFO:root:===> in 54th epochs
+INFO:root:lq frames 29.5936 dB with var0.26
+INFO:root:Epoch Avg. LQ Loss : 0.016413
+INFO:root:===> in 55th epochs
+INFO:root:lq frames 29.6039 dB with var0.26

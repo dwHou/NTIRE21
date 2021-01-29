@@ -1,0 +1,54 @@
+INFO:root:
+ experiment in 2021-01-28 13:29:35
+INFO:root:frames avg. psnr 25.6476 dB with var0.14
+INFO:root:
+ experiment in 2021-01-28 13:36:04
+INFO:root:
+ experiment in 2021-01-28 13:37:02
+INFO:root:frames avg. psnr 28.4763 dB with var0.41
+INFO:root:
+ experiment in 2021-01-28 13:41:38
+INFO:root:
+ experiment in 2021-01-28 13:42:32
+INFO:root:
+ experiment in 2021-01-28 13:45:15
+INFO:root:Epoch Avg. Loss : 0.017668
+INFO:root:===> in 1th epochs
+INFO:root:frames avg. psnr 28.4773 dB with var0.41
+INFO:root:===> save the best Model: reach 28.48dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017596
+INFO:root:===> in 2th epochs
+INFO:root:frames avg. psnr 28.4666 dB with var0.40
+INFO:root:Epoch Avg. Loss : 0.017558
+INFO:root:===> in 3th epochs
+INFO:root:frames avg. psnr 28.5845 dB with var0.42
+INFO:root:===> save the best Model: reach 28.58dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017531
+INFO:root:===> in 4th epochs
+INFO:root:frames avg. psnr 28.6624 dB with var0.41
+INFO:root:===> save the best Model: reach 28.66dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017362
+INFO:root:===> in 5th epochs
+INFO:root:frames avg. psnr 28.7166 dB with var0.43
+INFO:root:===> save the best Model: reach 28.72dB PSNR
+INFO:root:
+ experiment in 2021-01-28 23:38:34
+INFO:root:
+ experiment in 2021-01-28 23:39:51
+INFO:root:
+ experiment in 2021-01-28 23:41:52
+INFO:root:Epoch Avg. Loss : 0.017336
+INFO:root:===> in 1th epochs
+INFO:root:frames avg. psnr 28.7211 dB with var0.42
+INFO:root:===> save the best Model: reach 28.72dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017336
+INFO:root:===> in 2th epochs
+INFO:root:frames avg. psnr 28.7460 dB with var0.43
+INFO:root:===> save the best Model: reach 28.75dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017279
+INFO:root:===> in 3th epochs
+INFO:root:frames avg. psnr 28.7949 dB with var0.42
+INFO:root:===> save the best Model: reach 28.79dB PSNR
+INFO:root:Epoch Avg. Loss : 0.017231
+INFO:root:===> in 4th epochs
+INFO:root:frames avg. psnr 28.7812 dB with var0.43
