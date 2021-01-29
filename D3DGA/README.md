@@ -1,1 +1,1 @@
-![Alt text]("/images/D3DGA.png")
+![Alt text](/images/D3DGA.png)
