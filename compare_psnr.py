@@ -1,3 +1,4 @@
+# readlines() != readline()
 with open('val_set_info.txt') as f:
    psnr_before = []
    for l in f.readlines():
