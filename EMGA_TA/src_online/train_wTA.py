@@ -159,6 +159,7 @@ if __name__ == '__main__':
             w = w.tolist()
             w = [i if i > 0.03 else 0.03 for i in w]
             print('====> changing loss weights to', w)
+            logging.info(f'====> changing loss weights to {w}')
 
         criterion = MultiScaleLoss(weights = w)
         train(epoch)
