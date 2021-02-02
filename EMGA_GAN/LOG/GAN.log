@@ -1,0 +1,41 @@
+INFO:root:
+ experiment in 2021-02-01 20:27:15
+INFO:root:Avg. LPIPS 0.1437 
+INFO:root:
+ experiment in 2021-02-01 21:24:06
+INFO:root:Epoch Avg. GLoss : 0.293016
+INFO:root:with DLoss : 0.356587
+INFO:root:===> in 1th epochs
+INFO:root:Avg. LPIPS 0.1278 
+INFO:root:===> save the best model: reach 0.128 LPIPS
+INFO:root:
+ experiment in 2021-02-02 11:06:56
+INFO:root:Avg. LPIPS 0.1437 
+INFO:root:
+ experiment in 2021-02-02 11:25:37
+INFO:root:Avg. LPIPS 0.1437 
+INFO:root:
+ experiment in 2021-02-02 11:33:02
+INFO:root:Avg. LPIPS 0.1406 
+INFO:root:
+ experiment in 2021-02-02 11:47:59
+INFO:root:Epoch Avg. GLoss : 0.282543
+INFO:root:with DLoss : 0.525913
+INFO:root:===> in 1th epochs
+INFO:root:Avg. LPIPS 0.1625 
+INFO:root:===> save the best model: reach 0.162 LPIPS
+INFO:root:
+ experiment in 2021-02-02 14:01:56
+INFO:root:===> in 1th epochs
+INFO:root:Avg. LPIPS 0.1406 
+INFO:root:===> save the best model: reach 0.141 LPIPS
+INFO:root:===> in 2th epochs
+INFO:root:
+ experiment in 2021-02-02 14:51:11
+INFO:root:Epoch Avg. GLoss : 0.713507
+INFO:root:with DLoss : 0.067813
+INFO:root:===> in 1th epochs
+INFO:root:Avg. LPIPS 0.1048 
+INFO:root:===> save the best model: reach 0.105 LPIPS
+INFO:root:
+ experiment in 2021-02-02 17:02:09
