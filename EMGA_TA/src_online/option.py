@@ -40,6 +40,7 @@ parser.add_argument('--pre_train', type=str, default=None, help='pre-trained mod
 parser.add_argument('--batchSize', type=int, default=64, help='training batch size') # 37716 // batchsize
 parser.add_argument('--testBatchSize', type=int, default=1, help='testing batch size')
 parser.add_argument('--loss', type=str, default='1*L1', help='loss functions')
+parser.add_argument('--local_rank', default=-1, type=int, help='node rank for distributed training')
 
 
 opt = parser.parse_args()
