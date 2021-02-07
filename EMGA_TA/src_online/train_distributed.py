@@ -65,6 +65,7 @@ if __name__ == '__main__':
         print("Let's use", torch.cuda.device_count(), "GPUs!")
         # model = nn.DataParallel(model)
         model = nn.parallel.DistributedDataParallel(model, find_unused_parameters=True)
+        model = nn.SyncBatchNorm.convert_sync_batchnorm(model)
 
     if not (opt.pre_train is None):
         print('load model from %s ...' % opt.pre_train)
