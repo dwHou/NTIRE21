@@ -38,10 +38,13 @@ def create_lmdb(env_path, txt_path):
             words = line.split()
             pairs.append((words[0], words[1], words[2]))
 
-    key = 0  # key = 0 开始更好，能和__getitem__的index对应上。
+    # key =0 # key = 0 开始更好，能和__getitem__的index对应上。
     # 这段逻辑同gen_txt.py
     for index in range(len(pairs)):
         input, target, info = pairs[index]
+        
+        key = info
+        
         img_in = Image.open('/cfs_data/devonnhou/NTIRE2021/Dataset/FixedQP/' + input).convert('RGB')
         img_tar = Image.open('/cfs_data/devonnhou/NTIRE2021/Dataset/Label/training_raw/' + target).convert('RGB')
         img_info = Image.open('/cfs_data/devonnhou/NTIRE2021/Dataset/FixedQP/training_fixed-QP/' + info).convert('RGB')
@@ -55,8 +58,8 @@ def create_lmdb(env_path, txt_path):
         pair_b = pickle.dumps(np_pair)
 
         txn.put('{}'.format(key).encode(), pair_b)
-        key += 1
-        if key % 500 == 0:
+        
+        if index % 500 == 0:
             print("===>commit interval")
             txn.commit()
             # commit 之后需要再次 begin
