@@ -1,3 +1,5 @@
+# 但lmdb对shuffle(随机访问)不友好
+
 import torch.utils.data as data
 import torch
 from util import common
