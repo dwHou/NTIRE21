@@ -8,7 +8,7 @@
 Test:
 
 ```
-python src_online/ntire_solver.py --input_video /path-to-input-dir --output_video /path-to-output-dir --ckp path-to-checkpoint --cuda
+python src_online/ntire_solver.py --input_video /path-to-input-dir --output_video /path-to-output-dir --ckp /path-to-checkpoint --cuda
 ```
 
 trained model:
