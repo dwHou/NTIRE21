@@ -5,7 +5,10 @@
 
 [Official page](https://github.com/RenYang-home/NTIRE21_VEnh)
 
-Quick Start:
+Test:
 
+```
+python src_online/ntire_solver.py -i path-to-input-dir -out
+```
 
 
