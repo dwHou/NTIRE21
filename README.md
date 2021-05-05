@@ -1,2 +1,2 @@
-## ShannonLab's solutions for ##
+## Shannon Lab's solutions for ##
 ## NTIRE 2021 Quality enhancement of heavily compressed videos ##
