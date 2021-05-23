@@ -125,7 +125,8 @@ class Evaluator():
                 # B N C H W
                 input = torch.unsqueeze(input, 0)
                 input = input.cuda()
-
+                
+                '''
                 info_filename = str(info_num) + '.tuLayer.png'
                 info_path = os.path.join(self.info, info_filename)
                 info = Image.open(info_path).convert('RGB')
@@ -133,6 +134,8 @@ class Evaluator():
                 info = torch.from_numpy(info).permute(2, 0, 1).float() / 255
                 info = torch.unsqueeze(info, 0)
                 info = info.cuda()
+                '''
+                info = input[:,1,...][..., 0:1]
 
                 model = self.model
 
